@@ -19,9 +19,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     libTimeService \
     libtime_genoff \
-    libmdmdetect \
-    libFlacSwDec \
-    libmm-abl \
     com.qualcomm.location \
     libloc_api_v02 \
     libloc_ds_api
